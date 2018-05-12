@@ -18,14 +18,14 @@ contributor:
     wikipedia: http://pl.wikipedia.org/wiki/Wac%C5%82aw_Sieroszewski
   - agent_name: Sienkiewicz, Henryk
     birthdate: 1846
-    deathdate: &id001 1916
+    deathdate: 1916
     gutenberg_agent_id: '1052'
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
   - agent_name: Szymański, Adam
     alias: Szymanski, Adam
     birthdate: 1852
-    deathdate: *id001
+    deathdate: 1916
     gutenberg_agent_id: '37700'
     url: http://www.gutenberg.org/2009/agents/37700
   translator:
@@ -38,6 +38,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35456#Tales-by-Polish-Authors
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
 identifiers:
